@@ -1,0 +1,45 @@
+tc1:
+
+[F]: 
+[E]: 
+[D]: 
+[C]: [D]  [E]  
+[B]: [C]  
+[A]: [B]  
+[main]: [A]  [C] 
+
+
+tc2:
+
+[F]: [printf]  
+
+[E]: [F]  
+[D]: 
+[C]: [D]  [E]  
+[B]: [C]  
+[A]: [B]  
+[main]: [A]
+
+tc3:
+
+[F]: [printf]  
+
+[E]: 
+[D]: 
+[C]: [D]  [E]  
+[B]: [C]  
+[A]: 
+[main]: [A]  [E]  [C]  [F]
+
+
+tc_given:
+
+[F]: 
+[E]: 
+[D]: 
+[C]: [D]  [E]  
+[B]: [C]  
+[A]: [B]  
+[main]: [A]  [C]  [F]
+
+
